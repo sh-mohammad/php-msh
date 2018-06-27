@@ -1,0 +1,2 @@
+this is ferst echo in git:q
+
