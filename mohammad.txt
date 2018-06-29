@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i'm ahmad sa;dlfja;dlf kj;dflkdsfj;ksdlasj;glkdjg j
 gdsgj;algkdjag
  ajd;lakfjd;fldkf
@@ -5,3 +6,11 @@ agjoielvcmvdvjxvsmdsf
 
 fsfjj;dosfj 
  dslf;jfshahpri fard
+=======
+kldfjafl;kjf 'afljk ;dfk ;asjf ;alfjd; afjdsf;l kdjflkllllllllllllllllllll
+
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+lllllliiiiiiiiiiiiiiiiiii
+iii
+>>>>>>> 0f15bbe9af3a90aee557de2d5b8a22a0a1178482
